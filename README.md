@@ -17,11 +17,11 @@ The **Central Command Tool** is designed for freelancers and small agencies to e
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/central-command-tool.git
+   git clone https://github.com/elkhechafi/Infinybox-erp.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd central-command-tool
+   cd Infinybox-erp
    ```
 3. Open `index.html` in your browser to start using the tool.
 
